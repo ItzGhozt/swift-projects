@@ -1,14 +1,14 @@
 //
-//  rock_paper_scissors_starter_01App.swift
-//  rock-paper-scissors-starter-01
+//  rock_paper_scissorsApp.swift
+//  rock-paper-scissors
 //
-//  Created by Nicole on 1/24/25.
+//  Created by Alan Zhang on 1/22/25.
 //
 
 import SwiftUI
 
 @main
-struct rock_paper_scissors_starter_01App: App {
+struct rock_paper_scissorsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
