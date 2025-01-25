@@ -10,11 +10,7 @@ Track your wins, losses, and ties.
 Enjoy animations and effects for a more engaging experience.
 How to Access and Run
 Clone the Repository: Clone this repository to your local machine using:
-
-bash
-Copy
-Edit
-git clone https://github.com/YourUsername/your-repo-name.git
+git clone (https://github.com/ItzGhozt/swift-projects/tree/main)
 Open the Project:
 
 Locate the file named rock-paper-scissors-starter-01.xcodeproj or rock-paper-scissors-starter-01.swift.
