@@ -1,6 +1,3 @@
-
-Here's a shorter version focusing on how to run the project:
-
 Swift Projects Repository
 Hi! 👋 This is a collection of all my projects written in Swift. Below are instructions for running the Rock, Paper, Scissors project.
 
