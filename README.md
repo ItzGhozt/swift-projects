@@ -1,6 +1,8 @@
 Swift Projects Repository
-Hi! 👋 This is a collection of all my projects written in Swift. Below are instructions for running the Rock, Paper, Scissors project.
+Hi! 👋 This is a collection of all my projects written in Swift. 
 
+1. Rock, Paper, Sissors
+Below are instructions for running the Rock, Paper, Scissors project.
 How to Run
 Clone the Repository:
 
